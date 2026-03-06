@@ -4,5 +4,12 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"window.autoDetectColorScheme": false, // required!
+		"workbench.preferredLightColorTheme": "merko's green theme",
+		"workbench.preferredDarkColorTheme": "Aura Dark",
+		"helium-icon-theme.folders.associations": {
+			
+		},
+	}
 }
